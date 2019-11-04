@@ -10,3 +10,6 @@ Afterwards you should configure the bot token to your own in config.json. To run
 ```bash
 npm start
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
