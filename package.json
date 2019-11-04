@@ -22,7 +22,7 @@
     "Roblox",
     "Discord Bot"
   ],
-  "author": "AncientYears + MoamAufmKlo + Emilius123",
+  "constributors": ["AncientYears","MoaufmKlo","Emilius123"];
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/AncientYears/international-bot/issues"
