@@ -1,0 +1,32 @@
+{
+  "name": "roblox-international-discord-bot",
+  "version": "1.0.0",
+  "description": "This is the \"\"\u001b[DInternational bot\" Discord bot!",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AncientYears/international-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Roblox",
+    "Roblox",
+    "Discord",
+    "Discord",
+    "Roblox",
+    "Discord",
+    "Bot",
+    "Roblox",
+    "Discord",
+    "b\u001b[\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Bot"
+  ],
+  "author": "AncientYears + MoamAufmKlo + Emilius123",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AncientYears/international-bot/issues"
+  },
+  "homepage": "https://github.com/AncientYears/international-bot#readme"
+}
