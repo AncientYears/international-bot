@@ -1,7 +1,7 @@
 {
   "name": "roblox-international-discord-bot",
   "version": "1.0.0",
-  "description": "This is the \"\"\u001b[DInternational bot\" Discord bot!",
+  "description": "This is the Roblox International Discord bot!",
   "main": "app.js",
   "scripts": {
     "test": "node app.js"
@@ -20,8 +20,7 @@
     "Discord",
     "Bot",
     "Roblox",
-    "Discord Bot",
-    "b\u001b[\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Bot"
+    "Discord Bot"
   ],
   "author": "AncientYears + MoamAufmKlo + Emilius123",
   "license": "UNLICENSED",
