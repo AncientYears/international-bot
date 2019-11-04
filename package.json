@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/AncientYears/international-bot/issues"
   },
-  "homepage": "https://github.com/AncientYears/international-bot#readme",
+  "homepage": "https://github.com/AncientYears/international-bot",
   "dependencies": {
     "discord.js": "11.5.1"
   }
